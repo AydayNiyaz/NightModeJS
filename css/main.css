@@ -50,23 +50,39 @@ p {
     line-height: 1.5;
 }
 
-blockquote {
+/* master  */
+
+/* blockquote {
     background-color: beige;
     margin: 0;
     padding: 30px;
     padding-left: 50px;
     font-size: 22px;
     color: cadetblue;
+} */
+
+/* /master  */
+
+/* test  */
+
+blockquote {
+    background-color: beige;
+    margin: 0;
+    padding: 10px 0;
+    padding-left: 50px;
+    font-size: 28px;
+    color: rgb(110, 95, 160);
 }
 
+/* /test  */
 .night-mode-btn {
     position: absolute;
-    right: 50px;
+    right: 80px;
     top: 50px;
 }
 
 .night {
-    background-color: #000;
+    background-color: rgb(41, 32, 32);
     /* background-color: #242424; */
 }
 
